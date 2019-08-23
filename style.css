@@ -1,0 +1,46 @@
+
+body {
+    padding:10px;
+    margin: 0;
+
+
+
+}
+
+
+div.a {
+    text-align: center;
+  }
+
+li {
+    list-style-type: none;
+    text-orientation: sideways;
+}
+li {
+    display: inline;
+  }
+
+li:hover {
+    color: rgba(0, 0, 255, 0.466);
+
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 50;
+    padding: 50;
+    width: 2000px;
+    background-color: rgba(128, 128, 128, 0.11);
+
+    
+    
+}
+
+#left-side {
+    display: flex;
+}
+
+#right-side {
+    display: flex;
+}
